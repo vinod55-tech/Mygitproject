@@ -31,7 +31,7 @@
                 </div>
             @endif
 
-            <div class="text-center">This is Laravel Project</div>
+            <div class="text-center bold h-1">This is Laravel Project</div>
         </div>
     </body>
 </html>
